@@ -100,6 +100,8 @@ Visualisations were produced based on the analytical questions asked. These visu
 Although executed separately in jupyter notebook, these visualisations were deployed in PowerBI and the results are as shown in the dashboard below.
 
 ![Data dashboard](https://github.com/Azubi-Team-Selenium/Indian_Start_Up_Analysis/blob/data_vis/Screenshot%202024-03-22%20231934.png)
+![Screenshot 2024-03-22 233208](https://github.com/FloJoLaryea/Indian_Startup_Ecosystem_Project/assets/134957633/828c9b39-1a71-4b52-99ea-52b88ff173f9)
+
 ## 👀Observations
 🗝️It was proven that the amount of funding does indeed depend on the sector involved.
 
@@ -134,7 +136,8 @@ Overall, a majority of startups in India seem to thrive as India is a digital/te
 ## 🙋‍♀️Authors
 
 - Florence Josephina Laryea
-- [@octokatherine](https://www.github.com/octokatherine)
+- florencelaryea88@gmail.com
+- 
 
 
 ## 🤗Acknowledgements
