@@ -140,7 +140,9 @@ It is also recommended that the younger the startup, the more work has to be don
 
 It is also recommended to enhance analysis in the future with machine learning models to predict a projection of the current years as well as integrating with real time data to monitor market trends and analyse factors influencing startup business metrics. The likelihood of success of a business or the rate of growth depending on the sector could also be studied.
 
-Overall, a majority of startups in India seem to thrive as India is a digital/tech dominated country and about the greater portion of startups are in this sector. The Indian startup ecosystem has growm rapidly over the recent years and even more growth can be anticipated in the coming years.
+Overall, a majority of startups in India seem to thrive as India is a digital/tech dominated country and about the greater portion of startups are in this sector even if they are merged with other fields. The Indian startup ecosystem has growm rapidly over the recent years and even more growth can be anticipated in the coming years.
+
+**Therefore, as Bloomtech is now trying to venture into these kind of start-ups, these recommendations should be implemented in order to be integrated well in the ecosystem.**
 ## 🙋‍♀️Authors
 
 - Florence Josephina Laryea
