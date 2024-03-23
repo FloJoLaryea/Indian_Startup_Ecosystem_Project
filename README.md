@@ -99,8 +99,8 @@ After the stage was filled, it was used to group the amounts based on the variou
 Visualisations were produced based on the analytical questions asked. These visuals were paramount to providing a solid foundation for analysising any trends or hitting patterns in this time series analysis such as how the variables affected the success of a startup securing funding.
 Although executed separately in jupyter notebook, these visualisations were deployed in PowerBI and the results are as shown in the dashboard below.
 
-![Data dashboard](https://github.com/Azubi-Team-Selenium/Indian_Start_Up_Analysis/blob/data_vis/Screenshot%202024-03-22%20231934.png)
 ![Screenshot 2024-03-22 233208](https://github.com/FloJoLaryea/Indian_Startup_Ecosystem_Project/assets/134957633/828c9b39-1a71-4b52-99ea-52b88ff173f9)
+[Link to PowerBI dashboard](https://app.powerbi.com/groups/me/reports/2e9567cf-ba66-4d52-beb2-dd93bc02be45/ReportSection?experience=power-bi)
 
 ## 👀Observations
 🗝️It was proven that the amount of funding does indeed depend on the sector involved.
@@ -137,19 +137,26 @@ Overall, a majority of startups in India seem to thrive as India is a digital/te
 
 - Florence Josephina Laryea
 - florencelaryea88@gmail.com
-- 
+- [Link to my article on Medium](
+
+  **Co-authors**
+- Members of Team Selenium: Bright Abu Kwarteng Snr, Success Makafui
+Kwawu, Ikeagwuchi Andrew, and Abraham Worku Woldeselassie.
 
 
 ## 🤗Acknowledgements
+Much of our sincere gratitude goes to our instructors Racheal Appiah-Kubi and Violette Naa Adoley
+Allotey for their exceptional guidance, unwavering support, and invaluable mentorship throughout the course of this project. 
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+Their expertise, dedication, and commitment to our learning journey have been instrumental in shaping our understanding and skills in data
+analysis.
+
+ - 
 
 
 ## 📚References and bibliography
-Indian startup ecosystem: https://www.startupindia.gov.in/content/sih/en/funding.html
+[Indian startup ecosystem](https://www.startupindia.gov.in/content/sih/en/funding.html)
 
-Restructing column sectors:https://www.businessinsider.in/business/startups/news/top-10-industries-for-new-startups-in-india-as-per-hurun-list/articleshow/105651758.cms
+[Restructing column sectors](https://www.businessinsider.in/business/startups/news/top-10-industries-for-new-startups-in-india-as-per-hurun-list/articleshow/105651758.cms)
 
-Currency exchange rate: https://www.poundsterlinglive.com/history/USD-INR-2018
+[Currency exchange rate](https://www.poundsterlinglive.com/history/USD-INR-2018)
