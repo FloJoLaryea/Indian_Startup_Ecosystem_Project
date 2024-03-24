@@ -147,7 +147,7 @@ Overall, a majority of startups in India seem to thrive as India is a digital/te
 
 - Florence Josephina Laryea
 - florencelaryea88@gmail.com
-- [Link to my article on Medium](
+- [Link to my article on Medium](https://medium.com/@florencelaryea88/navigating-indias-start-up-ecosystem-hit-or-miss-236badb36eac)
 
   **Co-authors**
 - Members of Team Selenium: Bright Abu Kwarteng Snr, Success Makafui
