@@ -95,12 +95,20 @@ After Research on the stages of startup from the , we decided to regroup the sta
 
 After the stage was filled, it was used to group the amounts based on the various stages to fill the amount with the median. The choice of the median was done to influence of outliers on mean. 
 ## 🔅Exploratory Data Analysis
+The Exploratory Data Analysis phase delved deep into the cleaned and preprocessed datasets of the Indian Startup Ecosystem from the 2018-2021 funding records. Through a series of analytical techniques and visualizations, key insights were uncovered, shedding light on various aspects of the startup landscape. The following are some of the key insights gained from the EDA process:
+- trends in average funding amounts over the years, showcasing whether there was a growth or decline in investment in the Indian startup ecosystem.
+- outliers skewing the distributions
+- understanding the distribution of startups across different sectors and regions provided insights into the areas of focus and potential opportunities for growth.
+- exploration of investor data highlighted the key players in the funding landscape, their investment preferences, and the sectors they were most interested in.
+- metrics such as funding rounds, success rates, and funding sources were analyzed to identify factors contributing to the success of startups in securing funding.
+- startup locations and funding distribution geographically helped visualize regional disparities and identify areas with high startup activity.
 ## 📉Data Analysis 
 Visualisations were produced based on the analytical questions asked. These visuals were paramount to providing a solid foundation for analysising any trends or hitting patterns in this time series analysis such as how the variables affected the success of a startup securing funding.
+
 Although executed separately in jupyter notebook, these visualisations were deployed in PowerBI and the results are as shown in the dashboard below.
 
-![Data dashboard](https://github.com/Azubi-Team-Selenium/Indian_Start_Up_Analysis/blob/data_vis/Screenshot%202024-03-22%20231934.png)
 ![Screenshot 2024-03-22 233208](https://github.com/FloJoLaryea/Indian_Startup_Ecosystem_Project/assets/134957633/828c9b39-1a71-4b52-99ea-52b88ff173f9)
+[Link to PowerBI dashboard](https://app.powerbi.com/groups/me/reports/2e9567cf-ba66-4d52-beb2-dd93bc02be45/ReportSection?experience=power-bi)
 
 ## 👀Observations
 🗝️It was proven that the amount of funding does indeed depend on the sector involved.
@@ -109,7 +117,7 @@ Although executed separately in jupyter notebook, these visualisations were depl
 
 🗝️In India, Mumbai and Bangalore were the two city that received the most funding. However, interestingly enough, Bangalore had the most number of startups.
 
-🗝️The ability to secure funding for a business soared after 2019 through 2021 and further investigations detected an influence from the effects of the Covid-19 pandemic on India in 2020.
+🗝️The ability to secure funding for a business soared after 2019 through 2021 and further investigations detected an influence from the effects of the Covid-19 pandemic on India in 2020. India being a tech dominated country had the upper hand in 2020 as most services were moved to online platforms. These technologies extended to other fields especially the finance domain which boomed the year after the pandemic probably in order to stabilise the economy
 
 🗝️Although the study was able to detect top investors in start up business in India, the greater percentage were undisclosed, probably due to anonymosity or classified information. 
 
@@ -132,24 +140,32 @@ It is also recommended that the younger the startup, the more work has to be don
 
 It is also recommended to enhance analysis in the future with machine learning models to predict a projection of the current years as well as integrating with real time data to monitor market trends and analyse factors influencing startup business metrics. The likelihood of success of a business or the rate of growth depending on the sector could also be studied.
 
-Overall, a majority of startups in India seem to thrive as India is a digital/tech dominated country and about the greater portion of startups are in this sector. The Indian startup ecosystem has growm rapidly over the recent years and even more growth can be anticipated in the coming years.
+Overall, a majority of startups in India seem to thrive as India is a digital/tech dominated country and about the greater portion of startups are in this sector even if they are merged with other fields. The Indian startup ecosystem has growm rapidly over the recent years and even more growth can be anticipated in the coming years.
+
+**Therefore, as Bloomtech is now trying to venture into these kind of start-ups, these recommendations should be implemented in order to be integrated well in the ecosystem.**
 ## 🙋‍♀️Authors
 
 - Florence Josephina Laryea
 - florencelaryea88@gmail.com
-- 
+- [Link to my article on Medium](
+
+  **Co-authors**
+- Members of Team Selenium: Bright Abu Kwarteng Snr, Success Makafui
+Kwawu, Ikeagwuchi Andrew, and Abraham Worku Woldeselassie.
 
 
 ## 🤗Acknowledgements
+Much of our sincere gratitude goes to our instructors Racheal Appiah-Kubi and Violette Naa Adoley
+Allotey for their exceptional guidance, unwavering support, and invaluable mentorship throughout the course of this project. 
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+Their expertise, dedication, and commitment to our learning journey have been instrumental in shaping our understanding and skills in data
+analysis.
+
 
 
 ## 📚References and bibliography
-Indian startup ecosystem: https://www.startupindia.gov.in/content/sih/en/funding.html
+[Indian startup ecosystem](https://www.startupindia.gov.in/content/sih/en/funding.html)
 
-Restructing column sectors:https://www.businessinsider.in/business/startups/news/top-10-industries-for-new-startups-in-india-as-per-hurun-list/articleshow/105651758.cms
+[Restructing column sectors](https://www.businessinsider.in/business/startups/news/top-10-industries-for-new-startups-in-india-as-per-hurun-list/articleshow/105651758.cms)
 
-Currency exchange rate: https://www.poundsterlinglive.com/history/USD-INR-2018
+[Currency exchange rate](https://www.poundsterlinglive.com/history/USD-INR-2018)
