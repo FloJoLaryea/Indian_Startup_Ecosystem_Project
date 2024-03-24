@@ -115,7 +115,7 @@ Although executed separately in jupyter notebook, these visualisations were depl
 
 🗝️It was also evident that when it came to sectors, the top 3 sectors were Financial Services, Retail and IT and Technology respectively.
 
-🗝️In India, Mumbai and Bangalore were the two city that received the most funding. However, interestingly enough, Bangalore had the most number of startups.
+🗝️In India, Mumbai and Bangalore were the two cities that received the most funding. However, interestingly enough, Bangalore had the most number of startups.
 
 🗝️The ability to secure funding for a business soared after 2019 through 2021 and further investigations detected an influence from the effects of the Covid-19 pandemic on India in 2020. India being a tech dominated country had the upper hand in 2020 as most services were moved to online platforms. These technologies extended to other fields especially the finance domain which boomed the year after the pandemic probably in order to stabilise the economy
 
@@ -147,7 +147,7 @@ Overall, a majority of startups in India seem to thrive as India is a digital/te
 
 - Florence Josephina Laryea
 - florencelaryea88@gmail.com
-- [Link to my article on Medium](
+- [Link to my article on Medium](https://medium.com/@florencelaryea88/navigating-indias-start-up-ecosystem-hit-or-miss-236badb36eac)
 
   **Co-authors**
 - Members of Team Selenium: Bright Abu Kwarteng Snr, Success Makafui
